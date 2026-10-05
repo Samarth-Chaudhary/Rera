@@ -1,0 +1,426 @@
+Building,Sr.No.,Unit/Flat Detail,Booking Status,Allottee Name
+Unknown Building,1,PLOT NO. 1,Sold,NE** **IN
+Unknown Building,1,PLOT NO. 2,Sold,NI***
+Unknown Building,1,PLOT NO. 3,Sold,BH***** ****AL
+Unknown Building,1,PLOT NO. 4,Sold,CH***** **LA
+Unknown Building,1,PLOT NO. 5,Sold,VI*** *******RY
+Unknown Building,1,PLOT NO. 6,Sold,VI*** **IN
+Unknown Building,1,PLOT NO. 7,Sold,KA*** **VI
+Unknown Building,1,PLOT NO. 8,Sold,KA***** ******NV
+Unknown Building,1,PLOT NO. 9,Sold,MO**** ********AL
+Unknown Building,1,PLOT NO. 10,Sold,US** ****MA
+Unknown Building,1,PLOT NO. 11,Sold,SH**** ********AL
+Unknown Building,1,PLOT NO. 12,Sold,RI***** ***AL
+Unknown Building,1,PLOT NO. 13,Sold,AB*** ****EN
+Unknown Building,1,PLOT NO. 14,Unsold,-
+Unknown Building,1,PLOT NO.16,Sold,SU***** ****EK
+Unknown Building,2,PLOT NO.28,Sold,LI*******
+Unknown Building,3,PLOT NO.63,Sold,PO**** ***GH
+Unknown Building,4,PLOT NO.71,Sold,OM******* ****MA
+Unknown Building,5,PLOT NO.81,Sold,KA***
+Unknown Building,6,PLOT NO.102,Sold,AN*** ***AR
+Unknown Building,7,PLOT NO.20,Sold,VI*** **IN
+Unknown Building,8,PLOT NO.30,Sold,JA* *****SH
+Unknown Building,9,PLOT NO.65,Sold,SA**** ******YA
+Unknown Building,10,PLOT NO.73,Sold,AK*** *****AL
+Unknown Building,11,PLOT NO.83,Sold,AJ** ***GH
+Unknown Building,12,PLOT NO.104,Sold,BA**** ****RI
+Unknown Building,13,PLOT NO.24,Sold,SH***** ****AK
+Unknown Building,14,PLOT NO.61,Sold,HA** ****AR
+Unknown Building,15,PLOT NO.69,Sold,AN*** ****RA
+Unknown Building,16,PLOT NO.79,Sold,SH** ******AR
+Unknown Building,17,PLOT NO.100,Sold,MA****** ***AR
+Unknown Building,18,PLOT NO.114,Sold,BH******** ***AR
+Unknown Building,19,PLOT NO.21,Sold,SA*** ***GH
+Unknown Building,20,PLOT NO.31,Sold,NE*** ****MA
+Unknown Building,21,PLOT NO.66,Sold,RA***** *AI
+Unknown Building,22,PLOT NO.76,Sold,GO*** *AL
+Unknown Building,23,PLOT NO.97,Sold,SA***** ***AR
+Unknown Building,24,PLOT NO.105,Sold,MU**** ***AR
+Unknown Building,25,PLOT NO.19,Sold,YO**** ***AR
+Unknown Building,26,PLOT NO.29,Sold,KH******
+Unknown Building,27,PLOT NO.64,Sold,CH****** ****AM
+Unknown Building,28,PLOT NO.72,Sold,RA**** ****AM
+Unknown Building,29,PLOT NO.82,Sold,SA**** *AL
+Unknown Building,30,PLOT NO.103,Sold,RE***** ***NI
+Unknown Building,31,PLOT NO.15,Sold,NI**** *****AL
+Unknown Building,32,PLOT NO.27,Sold,DE**** ****MA
+Unknown Building,33,PLOT NO.62,Sold,PR***** ***AR
+Unknown Building,34,PLOT NO.70,Sold,VI*** ***AR
+Unknown Building,35,PLOT NO.80,Sold,RE*** ****RI
+Unknown Building,36,PLOT NO.101,Sold,KU**** ***GH
+Unknown Building,37,PLOT NO.23,Sold,SU***** *****RA
+Unknown Building,38,PLOT NO.60,Sold,ME***
+Unknown Building,39,PLOT NO.68,Sold,RO*** ***AR
+Unknown Building,40,PLOT NO.78,Sold,MA**** ***AR
+Unknown Building,41,PLOT NO.99,Sold,ME*** ******IA
+Unknown Building,42,PLOT NO.109,Sold,SU*** *******RY
+Unknown Building,43,PLOT NO.22,Sold,AS** ********RI
+Unknown Building,44,PLOT NO.32,Sold,LA******* ***NA
+Unknown Building,45,PLOT NO.67,Sold,RA***** ***AR
+Unknown Building,46,PLOT NO.77,Sold,AM** ****MA
+Unknown Building,47,PLOT NO.98,Sold,AM** ***KA
+Unknown Building,48,PLOT NO.108,Sold,CH********** ******AY
+Unknown Building,1,PLOT NO.17,Unsold,-
+Unknown Building,1,PLOT NO.18,Unsold,-
+Unknown Building,1,PLOT NO.26,Unsold,-
+Unknown Building,2,PLOT NO.25,Unsold,-
+Unknown Building,1,PLOT NO.33,Unsold,-
+Unknown Building,1,PLOT NO.34,Unsold,-
+Unknown Building,1,PLOT NO.49,Unsold,-
+Unknown Building,1,PLOT NO.58,Unsold,-
+Unknown Building,1,PLOT NO.59,Unsold,-
+Unknown Building,1,PLOT NO.74,Unsold,-
+Unknown Building,1,PLOT NO.75,Unsold,-
+Unknown Building,1,PLOT NO.84,Unsold,-
+Unknown Building,1,PLOT NO.85,Unsold,-
+Unknown Building,1,PLOT NO.95,Unsold,-
+Unknown Building,1,PLOT NO.96,Unsold,-
+Unknown Building,1,PLOT NO.115,Unsold,-
+Unknown Building,1,PLOT NO.116,Unsold,-
+Unknown Building,1,PLOT NO.131,Unsold,-
+Unknown Building,1,PLOT NO.132,Unsold,-
+Unknown Building,1,PLOT NO.145,Unsold,-
+Unknown Building,1,PLOT NO.E1,Sold,SA**** ***AR
+Unknown Building,1,PLOT NO.E10,Sold,BH**** **VI
+Unknown Building,1,PLOT NO.E18,Sold,PO*** **VI
+Unknown Building,1,PLOT NO.E25,Sold,RA***** ***NA
+Unknown Building,1,PLOT NO.E26,Sold,MU*** ***TA
+Unknown Building,1,PLOT NO. E37,Sold,VI**** *****AL
+Unknown Building,2,PLOT NO. E38,Sold,UT*** **UR
+Unknown Building,1,PLOT NO.E49,Sold,SU**** *****RE
+Unknown Building,1,PLOT NO.E50,Sold,PA*** ***NI
+Unknown Building,1,PLOT NO.E60,Sold,AB******** ******AR
+Unknown Building,1,PLOT NO.E89,Sold,GA*** ****MA
+Unknown Building,1,PLOT NO.E90,Sold,VI*** ****MA
+Unknown Building,1,PLOT NO.L1,Sold,MI****** *****IK
+Unknown Building,1,PLOT NO. L9,Sold,KA***** ***HI
+Unknown Building,1,PLOT NO. L10,Sold,NA**** *******RY
+Unknown Building,1,PLOT NO. L23,Sold,SH**** ****AR
+Unknown Building,1,PLOT NO. L24,Sold,SH***** ****MA
+Unknown Building,1,PLOT NO. L46,Sold,KA***** ***AR
+Unknown Building,1,PLOT NO. L47,Sold,RA****** ****MA
+Unknown Building,1,PLOT NO. L55,Sold,SU***** **VI
+Unknown Building,1,PLOT NO. L56,Sold,SU**** ***NI
+Unknown Building,1,PLOT NO. L69,Sold,NA*** *AM
+Unknown Building,1,PLOT NO. L70,Sold,NA*** ***AR
+Unknown Building,1,PLOT NO. L89,Sold,MA**** ***AR
+Unknown Building,1,PLOT NO. L90,Sold,PA********* **VI
+Unknown Building,1,PLOT NO. L109,Sold,NA**** ****WA
+Unknown Building,1,PLOT NO. R3,Unsold,-
+Unknown Building,2,PLOT NO. R2,Unsold,-
+Unknown Building,1,PLOT NO. 36,Sold,TA**** ***NA
+Unknown Building,2,PLOT NO. 44,Sold,SU**** ****MA
+Unknown Building,3,PLOT NO. 38,Sold,TU**** ********TA
+Unknown Building,4,PLOT NO. 46,Sold,SH*** **IN
+Unknown Building,5,PLOT NO. 42,Sold,BA**** ***AL
+Unknown Building,6,PLOT NO. 39,Sold,DA******
+Unknown Building,7,PLOT NO. 48,Sold,SA*** *****AL
+Unknown Building,8,PLOT NO. 37,Sold,JY*** ****MA
+Unknown Building,9,PLOT NO. 45,Sold,BH******* ***GH
+Unknown Building,10,PLOT NO. 35,Sold,RA**** **IN
+Unknown Building,11,PLOT NO. 43,Sold,NA*** ****OR
+Unknown Building,12,PLOT NO. 41,Sold,RE*** ****AR
+Unknown Building,13,PLOT NO. 40,Sold,BA**** ********LE
+Unknown Building,1,PLOT NO. 50,Sold,RA**** ***AR
+Unknown Building,1,PLOT NO. 54,Sold,NE**** ****AL
+Unknown Building,2,PLOT NO. 121,Sold,RA****** ****MA
+Unknown Building,3,PLOT NO. 129,Sold,RA****** ***AR
+Unknown Building,4,PLOT NO. 139,Sold,RA*** ******IA
+Unknown Building,5,PLOT NO. 56,Sold,BH**** ***GH
+Unknown Building,6,PLOT NO. 123,Sold,AN***** *****AL
+Unknown Building,7,PLOT NO. 133,Sold,BH****** **VI
+Unknown Building,8,PLOT NO. 141,Sold,DE**** ***TA
+Unknown Building,9,PLOT NO. 52,Sold,KA*** ***MA
+Unknown Building,10,PLOT NO. 119,Sold,MA*** ***AR
+Unknown Building,11,PLOT NO. 127,Sold,RA****** ****AR
+Unknown Building,12,PLOT NO. 137,Sold,SE*** *****AL
+Unknown Building,13,PLOT NO. 57,Sold,RA**** ***AR
+Unknown Building,14,PLOT NO. 124,Sold,AN** *****DA
+Unknown Building,15,PLOT NO.134,Sold,AS*** ***AR
+Unknown Building,16,PLOT NO. 142,Sold,KU***** ***GH
+Unknown Building,17,PLOT NO. 55,Sold,BH**** **NA
+Unknown Building,18,PLOT NO. 122,Sold,PR****** ***AR
+Unknown Building,19,PLOT NO. 130,Sold,MA***** *AL
+Unknown Building,20,PLOT NO. 140,Sold,SA**** ****MA
+Unknown Building,21,PLOT NO. 53,Sold,AS*** ***TA
+Unknown Building,22,PLOT NO. 120,Sold,CH**** ******AT
+Unknown Building,23,PLOT NO. 128,Sold,MA*** **LA
+Unknown Building,24,PLOT NO. 138,Sold,TE**** ***GH
+Unknown Building,25,PLOT NO. 51,Sold,RA* *****NA
+Unknown Building,26,PLOT NO. 118,Sold,RI** ****AL
+Unknown Building,27,PLOT NO. 126,Sold,MA***** ***GH
+Unknown Building,28,PLOT NO.136,Sold,SA**** ***AR
+Unknown Building,29,PLOT NO. 117,Sold,IN**** ****RI
+Unknown Building,30,PLOT NO. 125,Sold,CH**** ***NA
+Unknown Building,31,PLOT NO. 135,Sold,LA* ***ND
+Unknown Building,32,PLOT NO. 144,Sold,CH**** ****RA
+Unknown Building,1,COMMERCIAL SHOPS S22,Unsold,-
+Unknown Building,2,COMMERCIAL SHOPS S30,Unsold,-
+Unknown Building,3,COMMERCIAL SHOPS S38,Unsold,-
+Unknown Building,4,COMMERCIAL SHOPS S46,Unsold,-
+Unknown Building,5,COMMERCIAL SHOPS S24,Unsold,-
+Unknown Building,6,COMMERCIAL SHOPS S32,Unsold,-
+Unknown Building,7,COMMERCIAL SHOPS S40,Unsold,-
+Unknown Building,8,COMMERCIAL SHOPS S48,Unsold,-
+Unknown Building,9,COMMERCIAL SHOPS S20,Unsold,-
+Unknown Building,10,COMMERCIAL SHOPS S28,Unsold,-
+Unknown Building,11,COMMERCIAL SHOPS S36,Unsold,-
+Unknown Building,12,COMMERCIAL SHOPS S44,Unsold,-
+Unknown Building,13,COMMERCIAL SHOPS S25,Unsold,-
+Unknown Building,14,COMMERCIAL SHOPS S33,Unsold,-
+Unknown Building,15,COMMERCIAL SHOPS S41,Unsold,-
+Unknown Building,16,COMMERCIAL SHOPS S49,Unsold,-
+Unknown Building,17,COMMERCIAL SHOPS S23,Unsold,-
+Unknown Building,18,COMMERCIAL SHOPS S31,Unsold,-
+Unknown Building,19,COMMERCIAL SHOPS S39,Unsold,-
+Unknown Building,20,COMMERCIAL SHOPS S47,Unsold,-
+Unknown Building,21,COMMERCIAL SHOPS S21,Unsold,-
+Unknown Building,22,COMMERCIAL SHOPS S29,Unsold,-
+Unknown Building,23,COMMERCIAL SHOPS S37,Unsold,-
+Unknown Building,24,COMMERCIAL SHOPS S45,Unsold,-
+Unknown Building,25,COMMERCIAL SHOPS S19,Unsold,-
+Unknown Building,26,COMMERCIAL SHOPS S27,Unsold,-
+Unknown Building,27,COMMERCIAL SHOPS S35,Unsold,-
+Unknown Building,28,COMMERCIAL SHOPS S43,Unsold,-
+Unknown Building,29,COMMERCIAL SHOPS S26,Unsold,-
+Unknown Building,30,COMMERCIAL SHOPS S34,Unsold,-
+Unknown Building,31,COMMERCIAL SHOPS S42,Unsold,-
+Unknown Building,32,COMMERCIAL SHOPS S50,Unsold,-
+Unknown Building,1,PLOT NO. E6,Sold,SA********** **IN
+Unknown Building,2,PLOT NO. E15,Sold,MA*** ***NI
+Unknown Building,3,PLOT NO. E25,Unsold,-
+Unknown Building,4,PLOT NO. E8,Sold,LA*** ***MA
+Unknown Building,5,PLOT NO. E17,Sold,SE*** ***NA
+Unknown Building,6,PLOT NO. E27,Sold,SO***** ****MA
+Unknown Building,7,PLOT NO. E33,Sold,KA** **VI
+Unknown Building,8,PLOT NO. E43,Sold,KO***** **VI
+Unknown Building,9,PLOT NO. E53,Sold,SU****** ***GH
+Unknown Building,10,PLOT NO. E62,Sold,BH***** *AL
+Unknown Building,11,PLOT NO. E78,Sold,DH**** *AL
+Unknown Building,12,PLOT NO. E35,Sold,AB*** ***AK
+Unknown Building,13,PLOT NO. E45,Sold,PA*** **VI
+Unknown Building,14,PLOT NO. E55,Sold,SE*** ***MA
+Unknown Building,15,PLOT NO. E64,Sold,AN****** ****TI
+Unknown Building,16,PLOT NO. E88,Sold,MA******* ***IT
+Unknown Building,17,PLOT NO. E4,Sold,MA***** ***NA
+Unknown Building,18,PLOT NO. E13,Sold,BA***** *AL
+Unknown Building,19,PLOT NO. E22,Sold,JY*** *******AL
+Unknown Building,20,PLOT NO. E31,Sold,SI***** **GI
+Unknown Building,21,PLOT NO. E9,Sold,MA***** ******AT
+Unknown Building,22,PLOT NO. E19,Sold,VI**** ****EK
+Unknown Building,23,PLOT NO. E41,Sold,DA** *AM
+Unknown Building,24,PLOT NO. E51,Sold,NI*** ***AR
+Unknown Building,25,PLOT NO. E59,Sold,MA****** *AT
+Unknown Building,26,PLOT NO. E68,Sold,SU**** ***AR
+Unknown Building,27,PLOT NO. E7,Sold,CH*** *AM
+Unknown Building,28,PLOT NO. E28,Sold,DI****** ***MA
+Unknown Building,29,PLOT NO. E36,Sold,VI**** *****IA
+Unknown Building,30,PLOT NO. E46,Sold,KA***** ***ND
+Unknown Building,31,PLOT NO. E56,Sold,SA***** ****MA
+Unknown Building,32,PLOT NO. E65,Sold,MA*** **VI
+Unknown Building,33,PLOT NO. E91,Sold,RE*** *****RE
+Unknown Building,34,PLOT NO. E5,Sold,JI****** **NI
+Unknown Building,35,PLOT NO. E14,Sold,SA****** ***GH
+Unknown Building,36,PLOT NO. E23,Sold,SH***** **AN
+Unknown Building,37,PLOT NO. E32,Sold,UM*** ***AR
+Unknown Building,38,PLOT NO. E3,Sold,DH**** *AL
+Unknown Building,39,PLOT NO. E12,Sold,JA******** *****AR
+Unknown Building,40,PLOT NO. E42,Sold,RA**** *******RY
+Unknown Building,41,PLOT NO. E52,Sold,RA* ****AD
+Unknown Building,42,PLOT NO. E61,Sold,OM *****SH
+Unknown Building,43,PLOT NO. E71,Sold,SA***** ****RI
+Unknown Building,44,PLOT NO. E16,Sold,PA**** ***AR
+Unknown Building,45,PLOT NO. E26,Unsold,-
+Unknown Building,46,PLOT NO. E34,Sold,NI****** ******NI
+Unknown Building,47,PLOT NO. E44,Sold,AL** **IN
+Unknown Building,48,PLOT NO. E54,Sold,KH****** ****AR
+Unknown Building,49,PLOT NO. E63,Sold,KA***** ****MA
+Unknown Building,50,PLOT NO. E81,Sold,MA****** ***AR
+Unknown Building,51,PLOT NO. E21,Sold,RE***
+Unknown Building,52,PLOT NO. E30,Sold,MO**** ***NI
+Unknown Building,53,PLOT NO. E40,Sold,SU*** *AL
+Unknown Building,54,PLOT NO. E48,Sold,KI*** **IN
+Unknown Building,55,PLOT NO. E58,Sold,SU***** ****MA
+Unknown Building,56,PLOT NO. E67,Sold,HA***** *AT
+Unknown Building,57,PLOT NO. E105,Sold,BA*** **VI
+Unknown Building,58,PLOT NO. E11,Sold,HA**** ****AM
+Unknown Building,59,PLOT NO. E20,Sold,PR******
+Unknown Building,60,PLOT NO. E29,Sold,MU**** ***AR
+Unknown Building,61,PLOT NO. E39,Sold,VI*** *****IA
+Unknown Building,62,PLOT NO. E47,Sold,RA****** ***GH
+Unknown Building,63,PLOT NO. E57,Sold,RA**** ******NI
+Unknown Building,64,PLOT NO. E66,Sold,TU****** ***NA
+Unknown Building,65,PLOT NO. E101,Sold,AS*** ***AR
+Unknown Building,1,PLOT NO. L4,Sold,AN**** ***TA
+Unknown Building,2,PLOT NO. L14,Sold,JA***** *****AN
+Unknown Building,3,PLOT NO. L22,Sold,DE* ***AN
+Unknown Building,4,PLOT NO. L32,Sold,RA* ****OP
+Unknown Building,5,PLOT NO. L42,Sold,RA* ***AS
+Unknown Building,6,PLOT NO. L52,Sold,AS** ****MA
+Unknown Building,7,PLOT NO. L62,Sold,DH******** ***GH
+Unknown Building,8,PLOT NO. L6,Sold,MU**** ***AR
+Unknown Building,9,PLOT NO. L16,Sold,KI**** ****MA
+Unknown Building,10,PLOT NO. L26,Sold,VI****** ***NA
+Unknown Building,11,PLOT NO. L34,Sold,SH**** *AL
+Unknown Building,12,PLOT NO. L44,Sold,NE**** ****AR
+Unknown Building,13,PLOT NO. L54,Sold,NI*** ***AV
+Unknown Building,14,PLOT NO. L64,Sold,LO**** ***AR
+Unknown Building,15,PLOT NO. L2,Sold,RA***** ***NA
+Unknown Building,16,PLOT NO. L12,Sold,SA*****
+Unknown Building,17,PLOT NO. L20,Sold,SH*** ****AR
+Unknown Building,18,PLOT NO. L30,Sold,AN*** *****HI
+Unknown Building,19,PLOT NO. L40,Sold,NE*** **VI
+Unknown Building,20,PLOT NO. L50,Sold,RA**** ****MA
+Unknown Building,21,PLOT NO. L60,Sold,MO*** *AL
+Unknown Building,22,PLOT NO. L7,Sold,PR***** ***TA
+Unknown Building,23,PLOT NO. L17,Sold,JA* *****SH
+Unknown Building,24,PLOT NO. L27,Sold,PR** **TA
+Unknown Building,25,PLOT NO. L35,Sold,MA*** ***NA
+Unknown Building,26,PLOT NO. L45,Sold,MU**** ***AR
+Unknown Building,27,PLOT NO. L57,Sold,KA**** ********AL
+Unknown Building,28,PLOT NO. L65,Sold,NA** ***GH
+Unknown Building,29,PLOT NO. L3,Sold,MA**** *****IA
+Unknown Building,30,PLOT NO. L13,Sold,NI***** ***AV
+Unknown Building,31,PLOT NO. L21,Sold,AA******* ****MA
+Unknown Building,32,PLOT NO. L31,Sold,SU*** **NT
+Unknown Building,33,PLOT NO. L41,Sold,SA***** ***AR
+Unknown Building,34,PLOT NO. L51,Sold,SA**** *****AL
+Unknown Building,35,PLOT NO. L61,Sold,MA*** **IN
+Unknown Building,36,PLOT NO. L5,Sold,NI*** ***MA
+Unknown Building,37,PLOT NO. L15,Sold,JA*** *****AL
+Unknown Building,38,PLOT NO. L25,Sold,RA****** ***AR
+Unknown Building,39,PLOT NO. L33,Sold,MU**** ***ND
+Unknown Building,40,PLOT NO. L43,Sold,SU**** *******RY
+Unknown Building,41,PLOT NO. L53,Sold,SU***** ***NA
+Unknown Building,42,PLOT NO. L63,Sold,SA***** **VI
+Unknown Building,43,PLOT NO. L11,Sold,RA****** ***GH
+Unknown Building,44,PLOT NO. L19,Sold,RO****** ****AR
+Unknown Building,45,PLOT NO. L29,Sold,YO**** *****AL
+Unknown Building,46,PLOT NO. L39,Sold,LA*** ***AR
+Unknown Building,47,PLOT NO. L49,Sold,SU****** ***GH
+Unknown Building,48,PLOT NO. L59,Sold,JI****** *****IA
+Unknown Building,49,PLOT NO. L8,Sold,RA**** *****AT
+Unknown Building,50,PLOT NO. L18,Sold,AN** ***AR
+Unknown Building,51,PLOT NO. L28,Sold,KI**** *****AT
+Unknown Building,52,PLOT NO. L36,Sold,DH******** ***AR
+Unknown Building,53,PLOT NO. L48,Sold,MU**** *******RY
+Unknown Building,54,PLOT NO. L58,Sold,ME******* ****RA
+Unknown Building,55,PLOT NO. L68,Sold,G L
+Unknown Building,1,PLOT NO. L77,Sold,SU***** ****AL
+Unknown Building,2,PLOT NO. L85,Sold,YO**** **VI
+Unknown Building,3,PLOT NO. L95,Sold,GH******* ****AR
+Unknown Building,4,PLOT NO. L79,Sold,RA**
+Unknown Building,5,PLOT NO. L87,Sold,BH***** *AL
+Unknown Building,6,PLOT NO. L75,Sold,RA**** ****ED
+Unknown Building,7,PLOT NO. L83,Sold,MU*** **VI
+Unknown Building,8,PLOT NO. L93,Sold,AN*** ****MA
+Unknown Building,9,PLOT NO. L80,Sold,VI*** ***AR
+Unknown Building,10,PLOT NO. L88,Sold,SO** ****MA
+Unknown Building,11,PLOT NO. L72,Sold,KH******* ******AR
+Unknown Building,12,PLOT NO. L78,Sold,GY** ***ND
+Unknown Building,13,PLOT NO. L86,Sold,JY*** *********NI
+Unknown Building,14,PLOT NO. L108,Sold,SA***** ***AR
+Unknown Building,15,PLOT NO. L76,Sold,TA** ***ND
+Unknown Building,16,PLOT NO. L84,Sold,AN*** ****MA
+Unknown Building,17,PLOT NO. L94,Sold,SU******* ******AL
+Unknown Building,18,PLOT NO. L74,Sold,SI** **VI
+Unknown Building,19,PLOT NO. L82,Sold,KA**** ******NI
+Unknown Building,20,PLOT NO. L92,Sold,BH***** ***GH
+Unknown Building,21,PLOT NO. L71,Sold,DI*** ***AR
+Unknown Building,22,PLOT NO. L73,Sold,MU**** ****ID
+Unknown Building,23,PLOT NO. L81,Sold,PA**** ****MA
+Unknown Building,24,PLOT NO. L91,Sold,SU**** ***ND
+Unknown Building,1,PLOT NO. R1,Sold,"VI*** ********Y,"
+Unknown Building,1,PLOT NO. R4,Sold,"SH** ***U,"
+Unknown Building,1,PLOT NO. R5,Sold,SM** ***RI
+Unknown Building,1,PLOT NO- 89,Sold,RO** **GA
+Unknown Building,2,PLOT NO- 91,Sold,HE** *******YA
+Unknown Building,3,PLOT NO- 87,Sold,AR** ****MA
+Unknown Building,4,PLOT NO- 92,Sold,CH***** *AL
+Unknown Building,5,PLOT NO-90,Sold,NI*** *******AJ
+Unknown Building,6,PLOT NO- 88,Sold,HA** *AM
+Unknown Building,7,PLOT NO- 86,Sold,DE****** ***AR
+Unknown Building,8,PLOT NO- 94,Sold,NA*** ****RI
+Unknown Building,9,PLOT NO- 93,Sold,KA*** **NT
+Unknown Building,1,PLOT NO- 106,Unsold,-
+Unknown Building,1,PLOT NO - 107,Unsold,-
+Unknown Building,1,PLOT NO - 146,Unsold,-
+Unknown Building,1,PLOT NO - 148,Sold,SA**** **IN
+Unknown Building,2,PLOT NO - 149,Sold,OM******* ***NI
+Unknown Building,3,PLOT NO - 147,Sold,BH*** *AM
+Unknown Building,4,PLOT NO - 150,Sold,RA**** ***AR
+Unknown Building,1,PLOT NO 151,Unsold,-
+Unknown Building,1,PLOT NO 152,Unsold,-
+Unknown Building,1,PLOT 154,Sold,SH** ******AR
+Unknown Building,2,PLOT 156,Sold,RA***** ****AR
+Unknown Building,3,PLOT 157,Sold,AS*** ****WA
+Unknown Building,4,PLOT 155,Sold,AA***** ***AR
+Unknown Building,5,PLOT 153,Sold,PU**** ****MA
+Unknown Building,6,PLOT 160,Sold,MU**** ***AV
+Unknown Building,7,PLOT 158,Sold,AM** ***GH
+Unknown Building,1,PLOT NO 161,Unsold,-
+Unknown Building,1,PLOT NO E-70,Unsold,-
+Unknown Building,2,PLOT NO E-69,Unsold,-
+Unknown Building,1,PLOT NO E80,Sold,SU*****
+Unknown Building,2,PLOT NO E79,Sold,SA***** ****MA
+Unknown Building,1,PLOT NO E99,Sold,MO*** ******YA
+Unknown Building,2,PLOT NO E100,Sold,DE***** ****MA
+Unknown Building,1,PLOT NO E-106,Unsold,-
+Unknown Building,1,PLOT NO L37,Sold,MA**** *****AL
+Unknown Building,2,PLOT NO L38,Sold,DI*** **IN
+Unknown Building,1,PLOT NO R1,Unsold,-
+Unknown Building,1,PLOT NO R3,Unsold,-
+Unknown Building,2,PLOT NO R2,Unsold,-
+Unknown Building,1,PLOT NO R4,Unsold,-
+Unknown Building,1,PLOT NO R5,Unsold,-
+Unknown Building,1,PLOT NO. SC-4,Sold,"SH** ***U,"
+Unknown Building,2,PLOT NO. SC-12,Sold,SM** ***RI
+Unknown Building,3,PLOT NO. SC-6,Sold,GA****** *******RY
+Unknown Building,4,PLOT NO. SC-14,Sold,"SH** ***U,"
+Unknown Building,5,PLOT NO. SC-2,Unsold,-
+Unknown Building,6,PLOT NO. SC-10,Sold,BA**** ********LE
+Unknown Building,7,PLOT NO. SC-7,Sold,"SH** ***U,"
+Unknown Building,8,PLOT NO. SC-17,Unsold,-
+Unknown Building,9,PLOT NO. SC-5,Sold,SM** ***LU
+Unknown Building,10,PLOT NO. SC-13,Sold,JA* ****AN
+Unknown Building,11,PLOT NO. SC-3,Unsold,-
+Unknown Building,12,PLOT NO. SC-11,Sold,VI*** *******RY
+Unknown Building,13,PLOT NO. SC-1,Sold,GO**** ***GH
+Unknown Building,14,PLOT NO. SC-9,Sold,SM** ***RI
+Unknown Building,15,PLOT NO. SC-8,Sold,JA* ****AN
+Unknown Building,1,PLOT NO. SC-18,Unsold,-
+Unknown Building,1,PLOT NO. SC-22,Sold,SM** ***LU
+Unknown Building,2,PLOT NO. SC-30,Unsold,-
+Unknown Building,3,PLOT NO. SC-24,Sold,"SH** ***U,"
+Unknown Building,4,PLOT NO. SC-20,Unsold,-
+Unknown Building,5,PLOT NO. SC-28,Sold,GA****** *******RY
+Unknown Building,6,PLOT NO. SC-25,Sold,JA* ****AN
+Unknown Building,7,PLOT NO. SC-23,Sold,GA****** *******RY
+Unknown Building,8,PLOT NO. SC-31,Unsold,-
+Unknown Building,9,PLOT NO. SC-21,Unsold,-
+Unknown Building,10,PLOT NO. SC-29,Sold,SM** ***RI
+Unknown Building,11,PLOT NO. SC-19,Sold,SH** *****SH
+Unknown Building,12,PLOT NO. SC-27,Sold,"SH** ***U,"
+Unknown Building,13,PLOT NO. SC-26,Sold,GA****** *******RY
+Unknown Building,1,PLOT NO. SC-32,Unsold,-
+Unknown Building,1,PLOT NO. SC-33,Unsold,-
+Unknown Building,1,PLOT NO. SC-38,Sold,"SH** ***U,"
+Unknown Building,2,PLOT NO. SC-40,Sold,RA**** ****MA
+Unknown Building,3,PLOT NO. SC-36,Sold,GA****** *******RY
+Unknown Building,4,PLOT NO. SC-41,Sold,GO***
+Unknown Building,5,PLOT NO. SC-39,Sold,"SH** ***U,"
+Unknown Building,6,PLOT NO. SC-37,Sold,"NA****** *****U,"
+Unknown Building,7,PLOT NO. SC-35,Sold,JA* ****AN
+Unknown Building,8,PLOT NO. SC-34,Sold,SM** ***RI
+Unknown Building,1,PLOT NO. SC-42,Unsold,-
+Unknown Building,1,PLOT NO. SC-46,Sold,JA* ****AN
+Unknown Building,2,PLOT NO. SC-48,Unsold,-
+Unknown Building,3,PLOT NO. SC-44,Unsold,-
+Unknown Building,4,PLOT NO. SC-49,Unsold,-
+Unknown Building,5,PLOT NO. SC-47,Sold,RA**** ****MA
+Unknown Building,6,PLOT NO. SC-45,Sold,"NA****** *****U,"
+Unknown Building,7,PLOT NO. SC-43,Unsold,-
+Unknown Building,1,PLOT NO. SC-50,Sold,PA*** *AM
+Unknown Building,1,RESERVED AREA,Unsold,-
+Unknown Building,1,RESERVED FOR SECTOR COMMERCIAL,Unsold,-
