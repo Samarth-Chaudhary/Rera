@@ -10,17 +10,25 @@ An enterprise-grade forensic and regulatory compliance audit platform built to s
 
 ---
 
-## 🚀 Live Dashboard & Local URL
+## 🌐 Live Public Dashboard URL (Shareable With Anyone)
 
-The interactive forensic audit intelligence dashboard is runnable locally via Vite:
+The interactive forensic audit intelligence dashboard is live on the web and can be viewed by anyone worldwide without installing anything:
 
-- **Local Dashboard URL**: [http://localhost:5173/](http://localhost:5173/)
-- **Overview & Trajectory**: [http://localhost:5173/?tab=overview](http://localhost:5173/?tab=overview)
-- **Projects & Portfolios**: [http://localhost:5173/?tab=projects](http://localhost:5173/?tab=projects)
-- **Quarterly Reconciliation Matrix**: [http://localhost:5173/?tab=reconciliation](http://localhost:5173/?tab=reconciliation)
-- **Red Flags & Regulatory Anomalies**: [http://localhost:5173/?tab=red-flags](http://localhost:5173/?tab=red-flags)
-- **Evidence & Document Cloud**: [http://localhost:5173/?tab=documents](http://localhost:5173/?tab=documents)
-- **Automated Test Runner**: [http://localhost:5173/?tab=tests](http://localhost:5173/?tab=tests)
+- 🔗 **Public Web App**: **[https://samarth-chaudhary.github.io/Rera/](https://samarth-chaudhary.github.io/Rera/)**
+- 📊 **Overview & Trajectory**: [https://samarth-chaudhary.github.io/Rera/?tab=overview](https://samarth-chaudhary.github.io/Rera/?tab=overview)
+- 🏢 **Projects & Scheme Portfolios**: [https://samarth-chaudhary.github.io/Rera/?tab=projects](https://samarth-chaudhary.github.io/Rera/?tab=projects)
+- ⚖️ **Quarterly Reconciliation Matrix**: [https://samarth-chaudhary.github.io/Rera/?tab=reconciliation](https://samarth-chaudhary.github.io/Rera/?tab=reconciliation)
+- 🚩 **Red Flags & Regulatory Anomalies**: [https://samarth-chaudhary.github.io/Rera/?tab=red-flags](https://samarth-chaudhary.github.io/Rera/?tab=red-flags)
+- 📑 **Evidence & Document Cloud**: [https://samarth-chaudhary.github.io/Rera/?tab=documents](https://samarth-chaudhary.github.io/Rera/?tab=documents)
+- 🧪 **Automated Test Runner**: [https://samarth-chaudhary.github.io/Rera/?tab=tests](https://samarth-chaudhary.github.io/Rera/?tab=tests)
+
+---
+
+## 💻 Local Development URL
+
+If running locally on your workstation via `npm run dev`:
+
+- **Local Host URL**: [http://localhost:5173/](http://localhost:5173/)
 
 ---
 
